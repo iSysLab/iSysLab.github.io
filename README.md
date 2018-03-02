@@ -13,6 +13,6 @@ Intelligent System-SW Lab. @ Hansung University, Korea
   + Wonjo Jung
 
 # Current Research Projects
-- Research on Intelligent Automatic Programming Techniques for Web Applications (Funding by Korea Research Foundation) | [Details](project-autoprogramming.html)
+- Research on Intelligent Automatic Programming Techniques for Web Applications (Funding by Korea Research Foundation) | [Details](project-autoprogramming)
 
 
