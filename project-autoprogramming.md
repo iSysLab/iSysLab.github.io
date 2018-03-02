@@ -1,12 +1,9 @@
 # Research on Intelligent Automatic Programming Techniques for Web Applications
-In this research, we will research on intelligent automatic programming techniques
-for web application, and we will development an user-friendly authoring and
-management platform based on intelligent automatic programming.
+In this research, we will research on intelligent automatic programming techniques for web application, and we will development an user-friendly authoring and management platform based on intelligent automatic programming.
 
 Major topics and techniques for our research are as follows.
 
-## (1) A development of UI automatic generation technique based on object recognition
-of sketch-based images
+## (1) A development of UI automatic generation technique based on object recognition of sketch-based images
 - Technique for intelligent object recognition of sketch-based images
 - Mapping technique among web objects and objects of sketch-based images
 - Icon pack automatic generating technique for supporting template features
@@ -16,10 +13,8 @@ of sketch-based images
 - Layout/style model design
 - Database model design for web services
 - Design and implementation of a tool data and control flow of web services
-- Design and implementation of web service flow modeling tool for front-ends
-and back-ends
-## (3) A development of automatic code generation technique for web services based
-on web service models
+- Design and implementation of web service flow modeling tool for front-ends and back-ends
+## (3) A development of automatic code generation technique for web services based on web service models
 - Database automatic generation technique based on web service flow model
 - Automatic PSM technique based on web service flow model
 - Automatic code generation technique (Javascript, CSS, JSP, PHP, etc) based PSM
