@@ -17,7 +17,7 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 
 
 # Members (2018)
-- Junyoung Heo (Professor) | jyheo (at) hansung.ac.kr | [Home](https://sites.google.com/site/jyheo0/)
+- Junyoung Heo (Professor) *jyheo (at) hansung.ac.kr* [Home](https://sites.google.com/site/jyheo0/)
 - Jin Yong Yang (Research Fellow)
 - Graduate Students
   + Bada Kim
@@ -29,6 +29,6 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
   
    
 # Current Research Projects
-- Research on Intelligent Automatic Programming Techniques for Web Applications (Funding by Korea Research Foundation) | [Details](project-autoprogramming.md)
+- Research on Intelligent Automatic Programming Techniques for Web Applications (Funding by Korea Research Foundation) - [Details](project-autoprogramming.md)
 
 
