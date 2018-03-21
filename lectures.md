@@ -1,7 +1,7 @@
 ---
+title: Open Lecture Slides
 ---
 
-# Open Lecture Slides
 
 * Python(basic, class, numpy, matplotlib, pandas)(in English) - <https://jyheo.github.io/python-lecture/>
 * Git/Github(in Korean) - <https://jyheo.github.io/github-lecture/>

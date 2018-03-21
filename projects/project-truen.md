@@ -1,4 +1,5 @@
 ---
+title: Object Detection for Low-end embedded systems
 ---
 
 ## Requirements

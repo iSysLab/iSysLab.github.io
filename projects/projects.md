@@ -1,7 +1,6 @@
 ---
+title: Research Projects
 ---
-
-# Research Projects
 
 ## Automatic Programming
 - Research on Intelligent Automatic Programming Techniques for Web Applications 
