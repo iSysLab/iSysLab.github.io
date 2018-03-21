@@ -1,5 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes"
 
+include:
+  - _pages
+
 defaults:
   # _docs
   - scope:
