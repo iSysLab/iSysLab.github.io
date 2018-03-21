@@ -5,3 +5,9 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+
+sidebar:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
