@@ -1,9 +1,8 @@
 ---
-title: "project autoprogramming"
-permalink: /project-autop/
+title: "Research on Intelligent Automatic Programming Techniques for Web Applications"
+toc: true
 ---
 
-# Research on Intelligent Automatic Programming Techniques for Web Applications
 In this research, we will research on intelligent automatic programming techniques for web application, and we will development an user-friendly authoring and management platform based on intelligent automatic programming.
 
 Major topics and techniques for our research are as follows.

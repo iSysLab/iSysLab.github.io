@@ -1,13 +1,25 @@
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
+  - title: "HOME"
+    url: /
+  - title: "PROJECTS"
+    url: /projects/projects.html
+  - title: "LECTURES"
+    url: /lectures.html
+  - title: "BLOG"
+    url: /blog/
 
-sidebar:
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
+projects:
+  - title: "Projects"
+    url: /projects/projects.html
+  - title: "Automatic Programming"
+    url: /projects/project-autoprogramming.html
+  - title: "Object Detection"
+    url: /projects/project-truen.html
+  - title: "Robotic Sensor Networks"
+    url: /projects/project-rwsn.html
+
+blogm:
+  - title: "by Date"
+    url: /blog-by-date/
+  - title: "by Category"
+    url: /blog/
