@@ -9,5 +9,6 @@ defaults:
       path: ""
       type: pages
     values:
+      layout: home
       sidebar:
         nav: "sidebar"
