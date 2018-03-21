@@ -17,7 +17,7 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 
 
 # Members (2018)
-- Junyoung Heo (Professor) *jyheo (at) hansung.ac.kr* [Home](https://sites.google.com/site/jyheo0/)
+- Junyoung Heo (Professor) *jyheo (at) hansung.ac.kr* <https://jyheo.github.io/>
 - Jin Yong Yang (Research Fellow)
 - Graduate Students
   + Bada Kim
