@@ -5,7 +5,7 @@ toc: true
 
 In this research, we will research on intelligent automatic programming techniques for web application, and we will development an user-friendly authoring and management platform based on intelligent automatic programming.
 
-Project repository https://github.com/iSysLab/sketch2html
+Project repository [https://github.com/iSysLab/sketch2html](https://github.com/iSysLab/sketch2html)
 
 Major topics and techniques for our research are as follows.
 
