@@ -35,6 +35,10 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
   
 
 ## Awards
+- 최우수논문상, Jun. 2018, 한국컴퓨터종합학술대회(KCC)
+  + 웹 페이지 스케치기반 HTML코드 자동생성
+- 우수발표논문상, Jun. 2018, 한국컴퓨터종합학술대회(KCC)
+  + MSER을 이용한 스케치 UI 객체 이미지 데이터화 기법
 - Best Paper Award, Jan. 2018, ICGHIT 2018
   + A Dataflow Approach for Automatic Programming In Mobile Environments
 - 우수논문상, Dec. 2017, 한국소프트웨어종합학술대회(KSC)
