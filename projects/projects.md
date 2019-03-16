@@ -5,6 +5,7 @@ title: Research Projects
 ## Neuromorphic Computing
 - Integrated Development Environment for Autonomic IoT Applications based on Neuromorphic Architecture
 - Funding by IITP(Institute for Information & communications Technology Planning & Evaluation)
+- [Details](https://neurom-iot.github.io/)
 
 ## IoT based Flood Control Facility
 - Funding by KICT(KOREA INSTITUTE of CIVIL ENGINEERING and BUILDING TECHNOLOGY)
