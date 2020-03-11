@@ -22,17 +22,21 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
     + Deep-learning/Machine Learning
 
 
-## Members (2018)
+## Members (2020)
 - 허준영(Junyoung Heo) (Professor) <https://jyheo.github.io/>
 - 양진용(Jin Yong Yang) (Research Fellow)
-- Graduate Students
-  + 김바다(Bada Kim)
-  + 원태연(Taeyoen Won)
-  + 박상민(Sangmin Park)
-- Undergraduate Students
-  + 윤동희(Donghee Yun)
-  + 정원조(Wonjo Jung)
+- (Graduate/Undergraduate) Students
+  + 장두혁
+  + 김선민
+  + 최현웅
+  + 이정수
   
+## Alumni
+- 김바다(Bada Kim)
+- 원태연(Taeyoen Won)
+- 박상민(Sangmin Park)
+- 윤동희(Donghee Yun)
+- 정원조(Wonjo Jung)
 
 ## Awards
 - 최우수논문상, Jun. 2018, 한국컴퓨터종합학술대회(KCC)
