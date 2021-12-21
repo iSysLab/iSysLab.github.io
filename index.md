@@ -18,25 +18,28 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
     + Operaing Systems (Linux, FreeBSD, Raspbian)
     + Tiny Embedded Systems & IoT (We love Raspberry Pi)
   - Intelligent Systems
-    + Automatic Programming
-    + Deep-learning/Machine Learning
+    + Machine Learning
+    + Deep-learning/AI
 
 
-## Members (2020)
+## Members (2022)
 - 허준영(Junyoung Heo) (Professor) <https://jyheo.github.io/>
 - 양진용(Jin Yong Yang) (Research Fellow)
 - (Graduate/Undergraduate) Students
-  + 장두혁
-  + 김선민
-  + 최현웅
-  + 이정수
+  + 장두혁(Duhyeuk Chang), 석사
+  + 이정수(Jungsoo Lee), 석사
+  + 이지영(), 학부 연구생
+  + 정병현(Byeonghyeon Jung), 학부 연구생
+  + 조성우(), 학부 연구생
   
 ## Alumni
-- 김바다(Bada Kim)
-- 원태연(Taeyoen Won)
-- 박상민(Sangmin Park)
-- 윤동희(Donghee Yun)
-- 정원조(Wonjo Jung)
+- 김선민(Seon-Min Kim), 학부 졸업, 뉴럴웍스
+- 한병현(Byunghyun Han), 학부 졸업
+- 최현웅(Hyunwoong Choi), 학부 졸업, 삼성서울병원 AI 연구센터 
+- 김바다(Bada Kim), 석사 졸업, (주)삼성전자
+- 원태연(Taeyoen Won), 석사 졸업
+- 박상민(Sangmin Park), 석사 졸업
+- 윤동희(Donghee Yun), 학부 졸업, (주)트루엔
 
 ## Awards
 - 최우수논문상, Jun. 2018, 한국컴퓨터종합학술대회(KCC)
