@@ -25,6 +25,7 @@ github_username:  jyheo
 
 # Build settings
 markdown: kramdown
+encoding: UTF-8
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.14.2"
 minimal_mistakes_skin: "air"
