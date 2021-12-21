@@ -31,7 +31,14 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
   + 이지영(), 학부 연구생
   + 정병현(Byeonghyeon Jung), 학부 연구생
   + 조성우(), 학부 연구생
-  
+
+### 연구결과(논문지)
+- 이산 범위 기반 최적 밴드 추출을 이용한 초분광 이미지 픽셀 분석(장두혁, 정병현)
+- 초분광 이미지 픽셀 분류를 위한 풀링 연산과 PSNR을 이용한 최적 밴드 선택 기법(장두혁, 정병현)
+- 스트립 바이너리에서 합성곱 신경망을 이용한 컴파일러 정보 추출 기법(이정수, 최현웅)
+- 양자화 기반의 모델 압축을 이용한 ONNX 경량화(장두혁, 이정수)
+
+
 ## Alumni
 - 김선민(Seon-Min Kim), 학부 졸업, 뉴럴웍스
 - 한병현(Byunghyun Han), 학부 졸업
@@ -40,6 +47,16 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 - 원태연(Taeyoen Won), 석사 졸업
 - 박상민(Sangmin Park), 석사 졸업
 - 윤동희(Donghee Yun), 학부 졸업, (주)트루엔
+- 정원조(Won-Jo Jung), 학부 졸업
+
+### 연구결과(논문지, 특허)
+- 오픈신경망 포맷을 이용한 기계학습 모델 변환 및 추론(김선민, 한병현)
+- ONNX기반 스파이킹 심층 신경망 변환 도구(박상민)
+- 적층 콘볼루션 오토엔코더를 활용한 악성코드 탐지 기법(최현웅)
+- Semi-Supervised Learning Based Anomaly Detection for License Plate OCR in Real Time Video(김바다)
+- 웹 페이지 스케치기반 HTML코드 자동생성(김바다, 박상민)
+- [특허] 코드 생성 장치 및 방법 (김바다, 박상민, 원태연, 윤동희, 정원조) 
+
 
 ## Awards
 - 최우수논문상, Jun. 2018, 한국컴퓨터종합학술대회(KCC)
