@@ -6,7 +6,7 @@ main:
   - title: "LECTURES"
     url: /lectures.html
   - title: "BLOG"
-    url: /blog/
+    url: /blog-by-date/
 
 projects:
   - title: "Projects"
