@@ -2,17 +2,20 @@
 title: Research Projects
 ---
 
-## Neuromorphic Computing (ongoing)
-- Integrated Development Environment for Autonomic IoT Applications based on Neuromorphic Architecture
-- Funding by IITP(Institute for Information & communications Technology Planning & Evaluation)
-- [Details](https://neurom-iot.github.io/)
+## OTT (2022-)
+- TBD
 
-## Computation Offloading in Drone (ongoing)
+## Computation Offloading in Drone (2019-ongoing)
 - Development of River Management Technology for River Survey and Monitoring Based on Drone Platform
 - Optimizing Deep Learning computation in Drone and Offloading the computation to IoT Server(Gateway) 
 - Funding by KAIA(Korea Agency for Infrastucture Technology Advancement)
 
-## Android/Linux application security (ongoing)
+## Neuromorphic Computing (2019-2021)
+- Integrated Development Environment for Autonomic IoT Applications based on Neuromorphic Architecture
+- Funding by IITP(Institute for Information & communications Technology Planning & Evaluation)
+- [Details](https://neurom-iot.github.io/)
+
+## Android/Linux application security (2020)
 - Android malware detection using Machine Learning
 - Reverse engineering of Linux stripped binary
 
