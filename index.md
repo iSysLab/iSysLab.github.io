@@ -26,11 +26,12 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 - 허준영(Junyoung Heo) (Professor) <https://jyheo.github.io/>
 - 양진용(Jin Yong Yang) (Research Fellow)
 - (Graduate/Undergraduate) Students
-  + 장두혁(Duhyeuk Chang), 석사
   + 이정수(Jungsoo Lee), 석사
-  + 이지영(), 학부 연구생
   + 정병현(Byeonghyeon Jung), 학부 연구생
-  + 조성우(), 학부 연구생
+  + 김성진, 학부 연구생
+  + 박진용, 학부 연구생
+  + 이찬우, 학부 연구생
+  + 차정은, 학부 연구생
 
 ### 연구결과(논문지)
 - 이산 범위 기반 최적 밴드 추출을 이용한 초분광 이미지 픽셀 분석(장두혁, 정병현)
@@ -40,6 +41,8 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 
 
 ## Alumni
+- 장두혁(Duhyeuk Chang), 석사 졸업(22년2월)
+- 이지영(Ji-young Lee), 학부 졸업(22년8월), LotteON
 - 김선민(Seon-Min Kim), 학부 졸업, 뉴럴웍스
 - 한병현(Byunghyun Han), 학부 졸업
 - 최현웅(Hyunwoong Choi), 학부 졸업, 삼성서울병원 AI 연구센터 
