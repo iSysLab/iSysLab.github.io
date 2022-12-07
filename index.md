@@ -35,7 +35,7 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 
 
 ## Alumni
-- 이정수(Jungsoo Lee), 석사 졸업(22년9월), 석사병력특례
+- 이정수(Jungsoo Lee), 석사 졸업(22년8월), 석사병력특례
 - 장두혁(Duhyeuk Chang), 석사 졸업(22년2월), 농심엔지니어링
 - 이지영(Ji-young Lee), 학부 졸업(22년8월), LotteON
 - 김선민(Seon-Min Kim), 학부 졸업, 뉴럴웍스
