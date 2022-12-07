@@ -26,22 +26,17 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 - 허준영(Junyoung Heo) (Professor) <https://jyheo.github.io/>
 - 양진용(Jin Yong Yang) (Research Fellow)
 - (Graduate/Undergraduate) Students
-  + 이정수(Jungsoo Lee), 석사
+  + 김성진, 석사 과정
   + 정병현(Byeonghyeon Jung), 학부 연구생
-  + 김성진, 학부 연구생
   + 박진용, 학부 연구생
   + 이찬우, 학부 연구생
   + 차정은, 학부 연구생
-
-### 연구결과(논문지)
-- 이산 범위 기반 최적 밴드 추출을 이용한 초분광 이미지 픽셀 분석(장두혁, 정병현)
-- 초분광 이미지 픽셀 분류를 위한 풀링 연산과 PSNR을 이용한 최적 밴드 선택 기법(장두혁, 정병현)
-- 스트립 바이너리에서 합성곱 신경망을 이용한 컴파일러 정보 추출 기법(이정수, 최현웅)
-- 양자화 기반의 모델 압축을 이용한 ONNX 경량화(장두혁, 이정수)
+  + 손유현, 학부 연구생
 
 
 ## Alumni
-- 장두혁(Duhyeuk Chang), 석사 졸업(22년2월)
+- 이정수(Jungsoo Lee), 석사 졸업(22년9월), 석사병력특례
+- 장두혁(Duhyeuk Chang), 석사 졸업(22년2월), 농심엔지니어링
 - 이지영(Ji-young Lee), 학부 졸업(22년8월), LotteON
 - 김선민(Seon-Min Kim), 학부 졸업, 뉴럴웍스
 - 한병현(Byunghyun Han), 학부 졸업
@@ -53,6 +48,10 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 - 정원조(Won-Jo Jung), 학부 졸업
 
 ### 연구결과(논문지, 특허)
+- 이산 범위 기반 최적 밴드 추출을 이용한 초분광 이미지 픽셀 분석(장두혁, 정병현)
+- 초분광 이미지 픽셀 분류를 위한 풀링 연산과 PSNR을 이용한 최적 밴드 선택 기법(장두혁, 정병현)
+- 스트립 바이너리에서 합성곱 신경망을 이용한 컴파일러 정보 추출 기법(이정수, 최현웅)
+- 양자화 기반의 모델 압축을 이용한 ONNX 경량화(장두혁, 이정수)
 - 오픈신경망 포맷을 이용한 기계학습 모델 변환 및 추론(김선민, 한병현)
 - ONNX기반 스파이킹 심층 신경망 변환 도구(박상민)
 - 적층 콘볼루션 오토엔코더를 활용한 악성코드 탐지 기법(최현웅)
