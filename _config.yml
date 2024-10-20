@@ -54,7 +54,8 @@ algolia:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include: ["_posts", "projects"]
+#include: ["_posts", "projects"]
+include: ["projects"]
 
 defaults:
   - scope:
@@ -71,13 +72,13 @@ defaults:
       sidebar:
         nav: "projects"
       author_profile: false
-  - scope:
-      path: "_posts"
-    values:
-      layout: single
-      sidebar:
-        nav: "blogm"
-      author_profile: true
+#  - scope:
+#      path: "_posts"
+#    values:
+#      layout: single
+#      sidebar:
+#        nav: "blogm"
+#      author_profile: true
 
 # Site Author
 author:
