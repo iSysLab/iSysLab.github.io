@@ -22,20 +22,17 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
     + Deep-learning/AI
 
 
-## Members (2022)
+## Members
 - 허준영(Junyoung Heo) (Professor) <https://jyheo.github.io/>
 - 양진용(Jin Yong Yang) (Research Fellow)
 - (Graduate/Undergraduate) Students
-  + 김성진, 석사 과정
-  + 정병현(Byeonghyeon Jung), 학부 연구생
-  + 박진용, 학부 연구생
-  + 이찬우, 학부 연구생
-  + 차정은, 학부 연구생
-  + 손유현, 학부 연구생
-
+  + 이찬우(Chanwoo Lee), 석사 과정
+  + 손유현(Yuhyun Sohn), 석사 과정
 
 ## Alumni
-- 이정수(Jungsoo Lee), 석사 졸업(22년8월), 석사병력특례
+- 김성진(Sungjin Kim), 석사 졸업(24년8월), 석사병역특례
+- 이정수(Jungsoo Lee), 석사 졸업(22년8월), 석사병역특례
+- 정병현(Byeonghyeon Jung), 학부 졸업(22년2월), 서울시설공단 
 - 장두혁(Duhyeuk Chang), 석사 졸업(22년2월), 농심엔지니어링
 - 이지영(Ji-young Lee), 학부 졸업(22년8월), LotteON
 - 김선민(Seon-Min Kim), 학부 졸업, 뉴럴웍스
@@ -43,9 +40,10 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 - 최현웅(Hyunwoong Choi), 학부 졸업, 삼성서울병원 AI 연구센터 
 - 김바다(Bada Kim), 석사 졸업, (주)삼성전자
 - 원태연(Taeyoen Won), 석사 졸업
-- 박상민(Sangmin Park), 석사 졸업
+- 박상민(Sangmin Park), 석사 졸업, (주) LG전자
 - 윤동희(Donghee Yun), 학부 졸업, (주)트루엔
 - 정원조(Won-Jo Jung), 학부 졸업
+
 
 ### 연구결과(논문지, 특허)
 - 이산 범위 기반 최적 밴드 추출을 이용한 초분광 이미지 픽셀 분석(장두혁, 정병현)
