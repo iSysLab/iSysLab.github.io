@@ -26,10 +26,10 @@ Our research interests include operating systems, tiny embedded systems (IoT), a
 - 허준영(Junyoung Heo) (Professor) <https://jyheo.github.io/>
 - 양진용(Jin Yong Yang) (Research Fellow)
 - (Graduate/Undergraduate) Students
-  + 이찬우(Chanwoo Lee), 석사 과정
   + 손유현(Yuhyun Sohn), 석사 과정
 
 ## Alumni
+- 이찬우(Chanwoo Lee), 석사 졸업(25년2월), 석사병역특례
 - 김성진(Sungjin Kim), 석사 졸업(24년8월), 석사병역특례
 - 이정수(Jungsoo Lee), 석사 졸업(22년8월), 석사병역특례
 - 정병현(Byeonghyeon Jung), 학부 졸업(22년2월), 서울시설공단 
