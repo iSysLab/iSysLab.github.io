@@ -2,6 +2,10 @@
 title: Research Projects
 ---
 
+## Development of Reconfigurable AI Processor Software Framework Technologies (2025-2028)
+- Integrated simulation environment for SNN(Spiking Neural Networks) and DNN(Deep Neural Networks)
+- 과기정통부/IITP
+
 ## OTT 환경의 디지털미디어 이용 분석을 위한 모니터링 검증 기술개발 (2022-2025)
 - Development of monitoring verification technology for digital media usage analysis in OTT environment
 - 과기정통부/IITP
